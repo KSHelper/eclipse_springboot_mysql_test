@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mysqltest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dwolf
+Implementation-Vendor-Id: emc.mysqltest
+Build-Jdk: 1.8.0_222
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ProductManager
+Created-By: Maven Integration for Eclipse
+
